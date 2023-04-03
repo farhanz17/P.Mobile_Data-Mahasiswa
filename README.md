@@ -12,6 +12,9 @@
 
 Membuat program terlebih dahulu
 
+![Screenshot (183)](https://user-images.githubusercontent.com/92637117/229397307-4ef8862e-7be6-4091-9df9-fcbc260b011b.png)
+
+
 <?php
 
 $url = 'https://api.steinhq.com/v1/storages/642a1ee5eced9b09e9c762e8/21a1';
